@@ -1,3 +1,11 @@
+---
+date: 2014-02-28 23:08:31+00:00
+layout: post
+title: clojure开发环境(eclipse)
+categories: clojure
+tags: clojure
+---
+
 ###第一步： 安装leiningen
 
 leiningen是类似maven ivy+ant 的一个项目工具，因为为clojure定制的直接重用了maven，个人感觉这里有重复造轮子的嫌疑.

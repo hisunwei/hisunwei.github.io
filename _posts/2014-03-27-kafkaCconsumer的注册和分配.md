@@ -1,9 +1,17 @@
+---
+date: 2014-03-27 23:11:28+00:00
+layout: post
+title: kafka consumer分配partition过程
+categories: 中间件
+tags: kafka
+---
 在指定group下，其所有consumer平摊topic下的所有patition，每个partition只会有一个consumer在消费
+
 
 consumer注册过程：
 
 1、在 consumers/{group}/ids/{consumer}中注册自己 
-2、在同一个目录中注册watch，如果有新的consumer注册或者老的consumer离开，都会处罚之，随即开始rebalance过程
+2、在同一个目录中注册watch，如果有新的consumer注册或者老的consumer离开，都会触发之，随即开始rebalance过程
 3、注册/brokers/ids目录watch，如果有broker变动，同样需要rebalance
 4、如果consumer采用的topic filter的形式，那么/brokers/topics 下的监听，以便知道新的topic
 5、rebalance
