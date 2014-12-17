@@ -1,7 +1,7 @@
 ---
 date: 2014-02-28 23:08:31+00:00
 layout: post
-title: clojure开发环境(eclipse)
+title: clojure开发环境搭建(eclipse)
 categories: clojure
 tags: clojure
 ---

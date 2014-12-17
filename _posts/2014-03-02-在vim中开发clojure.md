@@ -1,7 +1,7 @@
 ---
 date: 2014-03-02 23:08:31+00:00
 layout: post
-title: clojure_开发环境搭建(vim)
+title: clojure开发环境搭建(vim)
 categories: clojure
 tags: clojure
 ---
