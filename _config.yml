@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://isunwei.com
+name: isunwei.com
+author: 克俭
+email: hisunwei@outlook.com
+duoshuo: isunwei
+cnzz: 1253871321
+weibo: 2538509504
+github: hisunwei
+pygments: true
+safe: true
+paginate: 20
+about: "这是hisunwei的博客."
