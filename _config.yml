@@ -11,4 +11,4 @@ github: hisunwei
 pygments: true
 safe: true
 paginate: 20
-about: "大家好，我是孙微(克俭)，前就职于目前在友盟(阿里巴巴))，从事大数据相关研发工作， 本人对hadoop、hbase、storm、spark、mongodb、redis、kafka等开源(分布式)系统均有一定了解和使用经验。该博客用于总结、分享学习成果和工作经验。 欢迎大家指教，谢谢 ~ 。"
+about: "大家好，我是孙微(克俭)，前就职于目前在友盟(阿里巴巴)，从事大数据相关研发工作， 本人对hadoop、hbase、storm、spark、mongodb、redis、kafka等开源(分布式)系统均有一定了解和使用经验。该博客用于总结、分享学习成果和工作经验。 欢迎大家指教，谢谢 ~ 。"
