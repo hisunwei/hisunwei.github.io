@@ -2,7 +2,7 @@
 date: 2015-02-08 02:44:00+00:00
 layout: post
 title: run spark on yarn
-categories: big data
+categories: bigData
 tags: spark yarn
 ---
 
