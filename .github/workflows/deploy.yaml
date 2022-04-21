@@ -1,4 +1,4 @@
-name: Deploy to GitHub pages
+name: build ph-pages dist
 on:
   push:
     # this is the branch where you develop your site
