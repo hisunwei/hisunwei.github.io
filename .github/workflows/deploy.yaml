@@ -26,6 +26,7 @@ jobs:
 
     - name: Init new repo in dist folder and commit generated files
       run: |
+        cp CNAME ./dist/
         cd ./dist
         git init
         git add -A
